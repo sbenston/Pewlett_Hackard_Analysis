@@ -54,4 +54,6 @@ FOREIGN KEY (dept_no) REFERENCES departments (dept_no),
 	PRIMARY KEY (emp_no, dept_no)
 );
 
-SELECT * FROM departments;
+SELECT * FROM employees;
+
+DROP TABLE employees CASCADE;
