@@ -24,6 +24,6 @@ In the span of nearly 4 years a total of 72,459 employees in mostly Senior level
 | *Count of all current employees by title in the company* |
 
 This is concerning when observing the current number of candidates that meet the eligibilty criteria for the mentorship program, which is only 1,550. It is not a reasonable assumption that all persons eligible will participate in the program, and the number pales in comparison to the number of vacancies. Additionally candidancy is assumed based on age alone rather than role or time within the company, exploring the counts of each role for current employees born in 1965 finds that while 592 of the employees are Senior Staff that are likely suitable potential mentors, there are only 169 Senior Engineers eligible compared to 501 Engineers. Even if time was taken to train Engineers to take over Senior Engineer positions, it still fails to address the current age used to determine eligibilty is insufficient to properly address the number of openings that will be seen at all levels of employment for the company. To address this increasing the range of ages to determine eligibilty is suggested to acquire more candidates.
-| ![Total number of positions for mentorship candidates](Data/eligible_titles) |
+| ![Total number of positions for mentorship candidates](Data/eligible_titles.png) |
 |:---:|
 | *Count of mentorship candidates by title in the company* |
