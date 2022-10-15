@@ -10,9 +10,10 @@ Due to a large portion of the company's workforce reaching retirement age, this 
 |:---:|
 | *Count of employees retiring by title in the company* |
 * The bulk of the employees that are close to retirement are in Senior positions, either as an Engineer or Staff member. While it is expected that retirees that have likely been in the company for a long period of time would be in these positions, they are an overwhelming majority of over 50,000 of the employees near retirement of a total of 72,459 unique members.
-* Of special concern, 2 Managers are near retirement along with 3,603 Technique Leaders. 
+* Of special concern, 2 Managers are near retirement along with 3,603 Technique Leaders.
+
 | ![Table of mentorship eligibilty](Data/mentorship_eligibilty.png) |
-|:---: |
+|:---:|
 | *Mentorship eligibilty table* |
 * The eligibility requirements of being born in 1965 returned 1,550 potential candidates.
 * Even if all potential candidates were to to enter into the mentorship program, it is not even the current amount of employees in leadership roles.
